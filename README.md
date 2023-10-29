@@ -24,6 +24,7 @@ git clone https://github.com/3Ryuusei3/ToDoApp.git
 
 - Open the project in Xcode.
 - Build and run the app using the Xcode simulator or on a physical device.
+```
 
 ## Requirements
 
